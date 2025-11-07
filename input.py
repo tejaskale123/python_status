@@ -1,5 +1,8 @@
-nmae =input("what is your name?:")
-age =inpi=ut("how old are you?:")
+name =input("what is your name?:")
+age =input("how old are you?:")
 
-print(f"Hello {name} !")
-print(f"you are {age}years old")
+print(f"Hello {name}!")
+print(f"you are {age} years old")
+
+
+
